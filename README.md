@@ -1,4 +1,5 @@
 # Jogo da velha com Javascript
+Link do site: https://fernandamakihirose.github.io/jogo-da-velha/
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
