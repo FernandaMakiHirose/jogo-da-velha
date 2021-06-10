@@ -1,0 +1,32 @@
+body {
+    text-align: center; /*vai centralizar todo o conteúdo*/
+    background-color: lightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.quadrado {
+    text-align: center; /*vai centralizar o quadrado no centro*/
+    width: 50px; /*largura*/
+    background: #eee; /*cor de fundo*/
+    display: inline-block; /*vai alinhar o conteúdo na mesma linha*/
+    padding: 40px; /*margem para dentro do conteúdo*/
+    font-size: 60px; /*tamanho da fonte*/
+    margin: 5px; /*margem para fora do conteúdo*/
+    cursor: pointer; /*vai mostrar que o quadrado é clicável*/
+    color: #eee; /*cor da fonte*/
+}
+
+.jogador, .vencedor {
+    font-size: 30px; /*tamanho da fonte*/
+    margin-top: 10px; /*margem do topo fora do conteúdo*/
+}
+
+button {
+    margin-top: 10px; /*margem do topo fora do conteúdo*/
+    width: 180px; /*largura*/
+    height: 40px; /*altura*/
+    background: lightsalmon; /*cor de fundo*/
+    cursor: pointer; /*vai mostrar que o quadrado é clicável*/
+    border: none;
+    border-radius: 20px;
+}
