@@ -1,5 +1,5 @@
-# Jogo da velha com Javascript
-- Neste projeto, desenvolvi o jogo da velha, utilizando somente HTML para estruturar o site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. 
+# Jogo da velha com JavaScript
+- Neste projeto, desenvolvi o jogo da velha, utilizando somente HTML para estruturar o site, CSS para estilizar e dar vida a ele, e JavaScript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. 
 - <a href="https://fernandamakihirose.github.io/jogo-da-velha/">Clique aqui para jogar</a>
 
 ## Sobre a Autora
