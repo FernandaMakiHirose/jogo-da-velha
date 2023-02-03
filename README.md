@@ -1,10 +1,1 @@
-# Jogo da velha com JavaScript
-- Neste projeto, desenvolvi o jogo da velha, utilizando somente HTML para estruturar o site, CSS para estilizar e dar vida a ele, e JavaScript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. 
-- <a href="https://fernandamakihirose.github.io/jogo-da-velha/">Clique aqui para jogar</a>
-
-## Requisitos
-- IDE
-- Navegador
-
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+![Screenshot_40](https://user-images.githubusercontent.com/72028645/216701178-1d30e7a2-fc74-4f32-8696-05f04df61ab8.png)
